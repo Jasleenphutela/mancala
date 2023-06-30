@@ -1,5 +1,4 @@
-#bishanpreet 102003243
-#jasleen 102003238
+
 from os import stat
 from mancala_helpers import *
 from mancala_minimax import minimax, simple_evaluate
